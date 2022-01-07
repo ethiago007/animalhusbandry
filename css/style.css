@@ -5,5 +5,21 @@ a {
     color: yellow;
 }
 .col-md-2 {
-    background-color: blue;
+    background-color: midnightblue;
+}
+h1 {
+  color: palevioletred;    
+}
+.img {
+    text-align: center;
+}
+a:hover{
+    border-style: ridge;
+    background-color: yellow;
+    border-radius: 30px;
+    color: red;
+    width: 70x;
+    height: 70px;
+    text-align: center;
+    text-decoration: none;
 }
