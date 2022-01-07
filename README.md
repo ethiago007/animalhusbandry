@@ -4,13 +4,15 @@ Animal Husbandry
 MOHAMMED KAMALDEEN
 ## BRIEF DESCRIPTION OF THE PROJECT
 It's a site for animal husbandry.
-## LONGER DESCRIPTION OF THE PROJECT
-The site contains information about 
 ## TECHNOLOGIES USED
 * HTML
 * CSS
+## LONGER DESCRIPTION OF THE PROJECT
+The site contains information about animal husbandry, the types, and the roles. Suitable page for students who needs help in their assignment.
 ### KNOWN BUGS
 none
+## WEBPAGE LINK
+
 ## CONTACT INFORMATION
 * 09064252791
 * mohammedkamaldeen204@gmail.com
